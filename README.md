@@ -1,4 +1,5 @@
 # ImageCaptionGenerator
-Using LSTM and CNN
-https://www.youtube.com/watch?v=yWAhC95n5RM
-image captioning
+-We used a pre trained model- used transfer learning
+-Using LSTM and CNN we generated captions
+
+
